@@ -5,6 +5,7 @@ The subjective assessment of the generalized perspective projection (parameteriz
 The Stimulus Comparison Adjectival Categorical Judgment (SCACJ) was selected as an evaluation method, since it is easier for subjects to select the most pleasant viewport, in a pair of viewports rendered with different projections, than to directly rate the viewports. Since the rectilinear projection (d=0) is typically used for the rendering of 360° images and videos, the resulting viewports were used as reference stimulus. More details about the subjective assessment procedure can be found in [2].
 
 
+# References
 
 [1]	J. Gutiérrez, E. David, A. Coutrot, M. Perreira Da Silva, P. Le Callet, “Introducing UN Salient360! Benchmark: A platform for evaluating visual attention models for 360 contents”, International Conference on Quality of Multimedia Experience (QoMEX), Sardinia, Italy, May. 2018.
 
